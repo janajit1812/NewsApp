@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ryan Dabbs",
+            "title": "Is this the greatest football advert ever made? Women's World Cup 2023 commercial expertly fools fans",
+            "description": "This Women's World Cup 2023 advert has one shocking twist midway through that will leave you scratching your head",
+            "url": "https://www.fourfourtwo.com/news/is-this-the-greatest-football-advert-ever-made-womens-world-cup-2023-commercial-expertly-fools-fans",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QsDqQaSCGtGodM5SnfAbqn-1200-80.jpg",
+            "publishedAt": "2023-07-20T19:00:43Z",
+            "content": "A Women's World Cup 2023 TV advert has cleverly fooled football fans to highlight the, often misogynistic, misconception that women's football is too slow and not exciting enough.\r\nFrench telecommuni… [+2376 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Alex Scarborough",
+            "title": "Lane Kiffin says state of college football is 'a disaster' - ESPN",
+            "description": "Ole Miss football coach says the current college sports landscape has become a \"disaster,\" with the transfer portal and NIL to blame for it.",
+            "url": "https://www.espn.com/college-football/story/_/id/38042106/lane-kiffin-says-state-college-football-disaster",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0720%2Fr1200042_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-20T16:20:00Z",
+            "content": "NASHVILLE, Tenn. -- Ole Miss coach Lane Kiffin didn't wait for questions on the impact of the transfer portal and name, image and likeness deals at SEC media days on Thursday. Instead, he addressed b… [+2382 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Jules Breach",
+            "title": "JULES BREACH: The battle at the top of the Premier League promises to be the most competitive yet with SEVEN teams in the hunt",
+            "description": "There could be seven sides in the hunt for Champions League football this season",
+            "url": "https://www.fourfourtwo.com/news/jules-breach-the-battle-at-the-top-of-the-premier-league-promises-to-be-the-most-competitive-yet-with-seven-teams-in-the-hunt",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/w2KVnQ2zLwn7WTZHYhtqeJ-1200-80.png",
+            "publishedAt": "2023-07-20T16:00:32Z",
+            "content": "In just the blink of an eye, the Premier League will be back – and this season could be the most competitive yet, particularly when you look at the battle for the Champions League spots.\r\nWhile last … [+4795 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "161385360554578",
+            "title": "Mahrez and Henderson set for Saudi, Newcastle agree Barnes deal, Onana to Man United",
+            "description": "talkSPORT.com brings you all the latest football news, views and transfer gossip. Check out the headline stories and follow our live blog below for regular updates throughout the day. Headlines: EV…",
+            "url": "https://talksport.com/football/1486182/football-news-live-mahrez-henderson-barnes-onana/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/OQ-TALKSPORT-BLOG-COMP-19TH-PM.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-07-20T07:40:24Z",
+            "content": "Former Arsenal forward Julio Baptista says signing Neymar from Paris Saint-Germain would be an ‘incredible move’ from the Gunners.\r\nPSG are open to offers for the Brazilian star this summer and Bapti… [+1250 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
