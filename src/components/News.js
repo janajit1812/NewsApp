@@ -28,7 +28,8 @@ export class News extends Component {
             page: 1,
             totalResults: 0
         }
-        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsMonkey`;
+        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsArena`;
+        document.body.style.backgroundColor="#e0dddd";
     }
 
     async componentDidMount() {
@@ -109,8 +110,8 @@ export class News extends Component {
     render() {
         return (
             <>
-                <h2 className="text-center" style={{ margin: '30px 0px' }}>
-                    NewsMonkey - Top {this.capitalizeFirstLetter(this.props.category)} headlines
+                <h2 className="text-center" style={{ marginTop:'100px', marginBottom:'50px' }}>
+                NewsArena - Top {this.capitalizeFirstLetter(this.props.category)} headlines
                 </h2>
                 {this.state.loading && <Spinner/>}
                 <InfiniteScroll
